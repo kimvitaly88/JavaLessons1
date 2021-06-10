@@ -26,4 +26,9 @@ public class Main {
         System.out.println("This is add method for 3 params");
         return 0;
     }
+    public int add(int a, int b, int c, int d)
+    {
+        System.out.println("This is add method for 4 params");
+        return 0;
+    }
 }
